@@ -1,4 +1,4 @@
-# Tic-Tac-Toe [visit my mebsite](https://flourishing-monstera-20bd42.netlify.app/)
+# Tic-Tac-Toe [visit my website](https://flourishing-monstera-20bd42.netlify.app/)
 This web-based Tic-Tac-Toe game is built using HTML, CSS (with Tailwind CSS for styling), and JavaScript. It offers a simple and interactive experience where two players take turns marking X and O on a 3x3 grid.
 
 Features:
